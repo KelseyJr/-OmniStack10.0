@@ -1,0 +1,16 @@
+li.dev-item p {
+  font-size: 14px;
+  color: #666;
+  line-height: 20px;
+  margin: 10px 0;
+}
+
+li.dev-item  a {
+  color: #8e4ddf;
+  font-size: 14px;
+  text-decoration: none;
+} 
+
+li.dev-item  a:HOVER {
+  color: #5a2ea6;
+}
